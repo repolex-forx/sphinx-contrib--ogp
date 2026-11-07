@@ -1,0 +1,7 @@
+[2026-11-07T00:41:58Z] === AST ITERATION 1 START | repo=sphinx-contrib/ogp sha=a591bf8c ===
+[2026-11-07T00:41:58Z] [iter=1] PHASE START: ast repo=sphinx-contrib/ogp sha=a591bf8c
+[2026-11-07T00:41:58Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T00:41:58Z] [iter=1] AST chunks built count=1 triples=6528
+[2026-11-07T00:41:58Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a591bf8cb12f2a609884fd191e6ee831f22deef2/.complete
+[2026-11-07T00:41:58Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-11-07T00:41:58Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
